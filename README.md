@@ -1,4 +1,4 @@
 # setup-gf
 
- chmod +x setup-gf<br>
-./setup-gf
+ chmod +x setup-gf.sh<br>
+./setup-gf.sh
