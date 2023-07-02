@@ -1,2 +1,3 @@
-# chmod +x setup-gf.sh
-# the delete my file
+#setup-gf
+chmod +x setup-gf.sh
+then delete my file
