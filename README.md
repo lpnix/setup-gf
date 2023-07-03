@@ -1,4 +1,5 @@
 # setup-gf
 
- chmod +x setup-gf.sh<br>
+apt-get install golang
+chmod +x setup-gf.sh<br>
 ./setup-gf.sh
